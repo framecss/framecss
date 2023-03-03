@@ -27,11 +27,10 @@ npm i framecss3
 ## CDN - new update
 ```html
 <!--CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.css" type="text/css" media="all" />
 <!--JS -->
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
 ```
-
 ## Deskripsi
 | Nama | Deskripsi |
 | --- | --- |
@@ -41,17 +40,15 @@ npm i framecss3
 ## Struktur Framecss
 ```text
 framecss/
-|── data/
-  ├── animate.css
-  |
-  ├── fonts/all.min.css
-  │
-  │
-  ├── f.min.css
-  ├── f.min.js
-  |
-  └── normalize.css
-
+└── data/
+    ├── animate.css
+    ├── f.min.css
+    ├── f.min.js
+    ├── fonts/
+    │   ├── all.min.css
+    │   └── webfonts/   
+    │      
+    └── normalize.css
 ```
 ## Template Cepat ::Framecss
 ### Float Layout
@@ -63,9 +60,9 @@ framecss/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!--CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.css" type="text/css" media="all" />
     <!--JS-->
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
     <!---
             <link rel="stylesheet" href="data/f.min.css" type="text/css" media="all" />
             <script src="data/f.min.js" type="text/javascript" charset="utf-8"></script>
@@ -73,17 +70,6 @@ framecss/
     <title>Framecss 3</title>
 </head>
 <body>
-    <style type="text/css" media="all">
-:root {
-        --magenta: #d80073;
-    }
-        * {
-            color: var(--white);
-        }
-        .bg-magenta {
-            background-color: var(--magenta);
-        }
-    </style>
     <div class="header bg-merah">
         <h1 class="">Halo Dunia</h1>
         <p>
@@ -127,9 +113,9 @@ framecss/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!--CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.css" type="text/css" media="all" />
     <!--JS-->
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
     <!--
             <link rel="stylesheet" href="data/f.min.css" type="text/css" media="all" />
             <script src="data/f.min.js" type="text/javascript" charset="utf-8"></script>
@@ -137,11 +123,6 @@ framecss/
     <title>grid1</title>
 </head>
 <body>
-    <style type="text/css" media="all">
-        * {
-            color: var(--white);
-        }
-    </style>
     <div class="header lbs-indigo">
         header
     </div>
@@ -180,9 +161,9 @@ framecss/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!--CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.css" type="text/css" media="all" />
     <!--JS-->
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
     <!--
             <link rel="stylesheet" href="data/f.min.css" type="text/css" media="all" />
             <script src="data/f.min.js" type="text/javascript" charset="utf-8"></script>
@@ -220,9 +201,9 @@ framecss/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!--CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.css" type="text/css" media="all" />
     <!--JS-->
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
     <!--
             <link rel="stylesheet" href="data/f.min.css" type="text/css" media="all" />
             <script src="data/f.min.js" type="text/javascript" charset="utf-8"></script>
@@ -394,7 +375,7 @@ framecss/
     </tr>
 </table>
 ```
-## [Lanjutkan Dokumentasi atau Tutorial](https://github.com/nelsenpro/frame/blob/main/3/docs/docs.md)
+## [Lanjutkan Dokumentasi atau Tutorial](https://github.com/framecss/framecss/blob/main/3/docs/docs.md)
 
 ## Creators
 [*Nelsen Niko*](https://wa.me/6285328736706/)
