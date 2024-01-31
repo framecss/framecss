@@ -1,4 +1,5 @@
-# css framework indonesia 👇 framecss framework 1.1.4 👇🤗
+# Framecss Framework Css Indonesia
+Framecss adalah sebuah proyek open source yang menyediakan berbagai macam library CSS untuk keperluan desain aplikasi web. Framecss mendukung class dua bahasa yaitu bahasa Indonesia dan bahasa Inggris, sehingga Anda dapat menggunakan class seperti "button" atau "tombol" dan hasilnya sama. Framecss menawarkan fitur-fitur unggulan seperti responsive design, grid system, custom components, dan theme customization. Framecss juga terinspirasi oleh beberapa CSS framework lain, seperti Bootstrap, Foundation, dan Bulma. Framecss adalah sebuah proyek yang terus berkembang dan berinovasi, sehingga Anda dapat mengikuti perkembangannya di Github, Gitlab mereka. Semoga Anda tertarik untuk mencoba Framecss! 😊
 [New update](https://github.com/framecss/frame)
 ## framecss framework css indonesia 
 ### framecss open source projects, is small css framework for your own design web
