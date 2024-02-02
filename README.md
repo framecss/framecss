@@ -1,6 +1,6 @@
-# Framecss Framework Css Indonesia
+# [Framecss Framework Css Indonesia](https://github.com/nelsenpro/framecss)
 Framecss adalah sebuah proyek open source yang menyediakan berbagai macam library CSS untuk keperluan desain aplikasi web. Framecss mendukung class dua bahasa yaitu bahasa Indonesia dan bahasa Inggris, sehingga Anda dapat menggunakan class seperti "button" atau "tombol" dan hasilnya sama. Framecss menawarkan fitur-fitur unggulan seperti responsive design, grid system, custom components, dan theme customization. Framecss awalnya diciptakan oleh Nelsen Niko yang kemudian dikembangkan oleh banyak kontributor lainnya. Kode sekarang merupakan hasil kolaborasi dari banyak kontributor yang berpartisipasi dalam pengembangan dan perbaikan kode sumbernya. Framecss juga terinspirasi oleh beberapa CSS framework lain, seperti Bootstrap, Foundation, dan Bulma. Framecss adalah sebuah proyek yang terus berkembang dan berinovasi, sehingga Anda dapat mengikuti perkembangannya di Github, Gitlab mereka. Semoga Anda tertarik untuk mencoba Framecss! 😊
-[New update](https://github.com/framecss/frame)
+[New update](https://github.com/nelsenpro/framecss)
 ## framecss framework css indonesia 
 ### framecss open source projects, is small css framework for your own design web
 [<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2SkG2t8NshC_wKAJhPhixCLtsYfzlLCBxRrMXfPXUNq8iLBtHzHFmkyQ36SedZw5CpGEIdFk0hfD1D8OykxFcqSueHpGuOQFwhaiX51P_0Tg670-0afL0-JmxDKcMCkSVF3LvNb_s92G3KAzexnFbsBT2vUqWo2Of5WL5VI6CqHFVor-zIE6yqatoSw/s4096/Framecss-banner.jpg" width=55%>](https://github.com/nelsenpro/frame)
@@ -10,7 +10,7 @@ Framecss adalah sebuah proyek open source yang menyediakan berbagai macam librar
 ```txt
 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
 ```
-# Framecss - Framework CSS
+# [Framecss - Framework CSS](https://github.com/nelsenpro/framecss)
 Menyediakan berbagai macam library CSS untuk keperluan Desain Aplikasi Web
 ## Daftar isi :
 - [Persiapan](#install)
@@ -31,13 +31,13 @@ Menyediakan berbagai macam library CSS untuk keperluan Desain Aplikasi Web
 npm i framecss3
 ```
 ### Download - old version
-[Gitlab](https://gitlab.com/nelsenpro/frame/-/archive/main/frame-main.zip)
+[Gitlab](https://gitlab.com/nelsenpro/framecss/-/archive/main/frame-main.zip)
 ## CDN - new update
 ```html
 <!--CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/framecss.min.css" type="text/css" media="all" />
 <!--JS -->
-<script src="https://cdn.jsdelivr.net/gh/framecss/framecss/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/framecss.min.js" type="text/javascript" charset="utf-8"></script>
 ```
 ## Deskripsi
 | Nama | Deskripsi |
