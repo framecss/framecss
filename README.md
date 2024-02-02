@@ -35,9 +35,9 @@ npm i framecss3
 ## CDN - new update
 ```html
 <!--CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/framecss.min.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/frame.css" type="text/css" media="all" />
 <!--JS -->
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/framecss.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/frame.js" type="text/javascript" charset="utf-8"></script>
 ```
 ## Deskripsi
 | Nama | Deskripsi |
