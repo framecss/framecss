@@ -1,3 +1,13 @@
+# Personal Token Framecss Framework 
+### Fine-grained personal access tokens :
+```
+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
+```
+### Personal access tokens (classic) :
+```
+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
+```
+#### ok
 # Framecss adalah Framework CSS Indonesia 
 [![Socket Badge](https://socket.dev/api/badge/npm/package/newframecss)](https://socket.dev/npm/package/newframecss)
 #### Framecss Framework Open Source 
